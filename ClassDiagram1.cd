@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DesignPattern23Example.Pattern.Creational.Singleton.Impletment.LoadBalanceServer">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAEAAAAAAAAAgAAAAAQBAAACAAAABAAAA=</HashCode>
+      <FileName>Pattern\Creational\Singleton\Impletment\LoadBalanceServer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern23Example.Pattern.Creational.Singleton.Impletment.LobbyServer">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAIAAAACAAAAAAAAgAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Pattern\Creational\Singleton\Impletment\LobbyServer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern23Example.Pattern.Creational.Singleton.Impletment.SingletonExample">
+    <Position X="3.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Pattern\Creational\Singleton\Impletment\SingletonExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft JhengHei UI" Size="9" />
+</ClassDiagram>

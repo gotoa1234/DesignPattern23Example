@@ -1,0 +1,9 @@
+D:\自我學習\23種設計模式\DesignPattern23Example\DesignPattern23Example\bin\Debug\DesignPattern23Example.exe.config
+D:\自我學習\23種設計模式\DesignPattern23Example\DesignPattern23Example\obj\Debug\DesignPattern23Example.csprojResolveAssemblyReference.cache
+D:\自我學習\23種設計模式\DesignPattern23Example\DesignPattern23Example\obj\Debug\DesignPattern23Example.Form1.resources
+D:\自我學習\23種設計模式\DesignPattern23Example\DesignPattern23Example\obj\Debug\DesignPattern23Example.Properties.Resources.resources
+D:\自我學習\23種設計模式\DesignPattern23Example\DesignPattern23Example\obj\Debug\DesignPattern23Example.csproj.GenerateResource.Cache
+D:\自我學習\23種設計模式\DesignPattern23Example\DesignPattern23Example\bin\Debug\DesignPattern23Example.exe
+D:\自我學習\23種設計模式\DesignPattern23Example\DesignPattern23Example\bin\Debug\DesignPattern23Example.pdb
+D:\自我學習\23種設計模式\DesignPattern23Example\DesignPattern23Example\obj\Debug\DesignPattern23Example.exe
+D:\自我學習\23種設計模式\DesignPattern23Example\DesignPattern23Example\obj\Debug\DesignPattern23Example.pdb
