@@ -60,6 +60,7 @@
     <Compile Include="Pattern\Creational\AbstractFactory\Inpletment\Map\MapFactory.cs" />
     <Compile Include="Pattern\Creational\AbstractFactory\Inpletment\Map\PhysicalFactory\DarkScenes.cs" />
     <Compile Include="Pattern\Creational\AbstractFactory\Inpletment\Map\PhysicalFactory\LightScense.cs" />
+    <Compile Include="Pattern\Creational\FactoryMethod\Inpletment\FactoryMethodExample.cs" />
     <Compile Include="Pattern\Creational\Singleton\Impletment\LoadBalanceServer.cs" />
     <Compile Include="Pattern\Creational\Singleton\Impletment\LobbyServer.cs" />
     <Compile Include="Pattern\Creational\Singleton\Impletment\SingletonExample.cs" />
@@ -106,7 +107,8 @@
     <Folder Include="Pattern\Creational\AbstractFactory\Base\DBConnection\" />
     <Folder Include="Pattern\Creational\AbstractFactory\Interface\" />
     <Folder Include="Pattern\Creational\Builder\" />
-    <Folder Include="Pattern\Creational\FactoryMethod\" />
+    <Folder Include="Pattern\Creational\FactoryMethod\Base\" />
+    <Folder Include="Pattern\Creational\FactoryMethod\Interface\" />
     <Folder Include="Pattern\Creational\Prototype\" />
     <Folder Include="Pattern\Creational\RegistryOfSingleton\" />
     <Folder Include="Pattern\Creational\SimpleFactory\" />

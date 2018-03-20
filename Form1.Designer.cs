@@ -31,6 +31,7 @@
             this.Singleton_button = new System.Windows.Forms.Button();
             this.groupBox_Creational = new System.Windows.Forms.GroupBox();
             this.AbstractFactory_button = new System.Windows.Forms.Button();
+            this.FactoryMethod_button = new System.Windows.Forms.Button();
             this.groupBox_Creational.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -46,6 +47,7 @@
             // 
             // groupBox_Creational
             // 
+            this.groupBox_Creational.Controls.Add(this.FactoryMethod_button);
             this.groupBox_Creational.Controls.Add(this.AbstractFactory_button);
             this.groupBox_Creational.Controls.Add(this.Singleton_button);
             this.groupBox_Creational.Location = new System.Drawing.Point(12, 12);
@@ -64,6 +66,16 @@
             this.AbstractFactory_button.Text = "抽象工廠模式(AbstractFactory)";
             this.AbstractFactory_button.UseVisualStyleBackColor = true;
             this.AbstractFactory_button.Click += new System.EventHandler(this.AbstractFactory_button_Click);
+            // 
+            // FactoryMethod_button
+            // 
+            this.FactoryMethod_button.Location = new System.Drawing.Point(193, 50);
+            this.FactoryMethod_button.Name = "FactoryMethod_button";
+            this.FactoryMethod_button.Size = new System.Drawing.Size(170, 23);
+            this.FactoryMethod_button.TabIndex = 2;
+            this.FactoryMethod_button.Text = "抽象方法模式(FactoryMethod)";
+            this.FactoryMethod_button.UseVisualStyleBackColor = true;
+            this.FactoryMethod_button.Click += new System.EventHandler(this.FactoryMethod_button_Click);
             // 
             // Form1
             // 
@@ -84,6 +96,7 @@
         private System.Windows.Forms.Button Singleton_button;
         private System.Windows.Forms.GroupBox groupBox_Creational;
         private System.Windows.Forms.Button AbstractFactory_button;
+        private System.Windows.Forms.Button FactoryMethod_button;
     }
 }
 

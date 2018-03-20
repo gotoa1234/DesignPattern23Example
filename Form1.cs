@@ -10,6 +10,8 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using DesignPattern23Example.Pattern.Creational.AbstractFactory.Inpletment;
+using DesignPattern23Example.Pattern.Creational.FactoryMethod.Inpletment;
+
 namespace DesignPattern23Example
 {
     public partial class Form1 : Form
@@ -39,8 +41,14 @@ namespace DesignPattern23Example
 
         private void AbstractFactory_button_Click(object sender, EventArgs e)
         {
-            //進行工廠模式的模擬建立
+            //進行抽象工廠模式的模擬建立
             AbstractFactoryExample Creational = new AbstractFactoryExample();
+        }
+
+        private void FactoryMethod_button_Click(object sender, EventArgs e)
+        {
+            //進行抽象工廠方法的模擬建立
+            FactoryMethodExample Creational = new FactoryMethodExample();
         }
     }
 }

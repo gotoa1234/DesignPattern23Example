@@ -19,12 +19,12 @@ namespace DesignPattern23Example.Pattern.Creational.AbstractFactory.Inpletment
         private MapSceneFactory GetGameScene(string gameSceneName)
         {
             MapSceneFactory returnFactory = null;
-            //這邊是範例，正常來說，您掌握住專案內程式的所有Abstract Factory (本範例為PatrixSceneFactory)
+            //這邊是範例，正常來說，您掌握住專案內程式的所有Abstract Factory (本範例為MapSceneFactory)
             //作法1.反射方式回傳具體工廠
-            //var getRightAssemblyName = (typeof(PatrixSceneFactory).Assembly.FullName);
+            //var getRightAssemblyName = (typeof(MapSceneFactory).Assembly.FullName);
             ////類別所在的命名空間
-            //string nameSpaceLocation = "CallMovieExaple.Pattern.Creational.AbstractFactory.Impletment.";
-            //returnFactory = (PatrixSceneFactory)Assembly.Load(getRightAssemblyName).CreateInstance(nameSpaceLocation + gameSceneName);
+            //string nameSpaceLocation = "DesignPattern23Example.Pattern.Creational.AbstractFactory.Inpletment.PhysicalFactory.";
+            //returnFactory = (MapSceneFactory)System.Reflection.Assembly.Load(getRightAssemblyName).CreateInstance(nameSpaceLocation + "DarkScenes");
 
 
             //作法2.使用Switch Case 來回傳具體工廠
